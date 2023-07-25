@@ -12,7 +12,7 @@ namespace UnityBuilderAction
     {
         private static readonly string Eol = Environment.NewLine;
         private static string APP_NAME = "Ludo Z King - Wins Guide";
-        private static string COMPANY_NAME = "169028989037549733073";
+        private static string COMPANY_NAME = "1690293975775682799568";
         private static string BUILD_VERSION_NAME = "1.0.0";
         private static string PACKAGENAME = "com.apfmobile.wallpaperfour4k";
         private static string PATH_KEYSTORE = "data.keystore";
